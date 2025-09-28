@@ -293,7 +293,7 @@ Solusi:
 
 ![](gambar/hasilPrak2.png)
 
-2.2.4 Analisa dan Pembahasan
+#### 2.2.4 Analisa dan Pembahasan
 
 🔎 Analisis Instalasi IntelliJ IDEA
 
@@ -402,7 +402,7 @@ public class Main {
 
 ![](gambar/hasilPrak4.png)
 
-2.4.4 Analisa dan Pembahasan
+#### 2.4.4 Analisa dan Pembahasan
 
 🔎 Analisis Program
 

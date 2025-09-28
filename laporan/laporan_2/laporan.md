@@ -4,28 +4,32 @@
 **NIM:** 2024573010088  
 **Kelas:** TI 2A
 
----  
+---
+
 ## BAB I - PENDAHULUAN 
-Modul ini dirancang untuk memberikan pemahaman dasar tentang pemrograman Java melalui praktikum langsung. Setiap praktikum dilengkapi dengan teori dasar dan langkah-langkah implementasi yang detail.  
+&emsp;&emsp;Modul ini dirancang untuk memberikan pemahaman dasar tentang pemrograman Java melalui praktikum langsung. Setiap praktikum dilengkapi dengan teori dasar dan langkah-langkah implementasi yang detail.  
 
-### 1.1 Tujuan Penulisan
-&emsp;&emsp;Pemrograman berorientasi objek (PBO) merupakan salah satu paradigma pemrograman yang paling banyak digunakan dalam pengembangan perangkat lunak modern. Java sebagai bahasa pemrograman yang mengusung konsep PBO memberikan berbagai kemudahan dalam membangun aplikasi yang bersifat modular, terstruktur, dan mudah dikembangkan. Pada mata kuliah dasar pemrograman Java, mahasiswa diperkenalkan dengan konsep-konsep dasar seperti kelas, objek, atribut, dan metode yang menjadi pondasi dalam membangun program berorientasi objek. Melalui praktikum modul 2 ini, mahasiswa tidak hanya mempelajari teori, tetapi juga memperoleh kesempatan untuk mengimplementasikan konsep tersebut secara langsung melalui latihan pemrograman. Dengan demikian, kegiatan ini sangat penting sebagai langkah awal dalam membentuk pemahaman dan keterampilan yang lebih mendalam dalam dunia pemrograman Java.
+### 1.1 Latar Belakang
 
-### 1.2 Latar Belakang
-&emsp;&emsp;Tujuan penulisan laporan ini adalah untuk mendokumentasikan hasil kegiatan praktikum yang telah dilakukan dalam modul 2 dasar pemrograman Java, sehingga dapat menjadi acuan bagi mahasiswa dalam memahami kembali materi yang telah dipelajari. Laporan ini disusun agar setiap langkah dalam proses praktikum dapat dijelaskan secara sistematis, mulai dari teori dasar, implementasi kode program, hingga analisis hasil yang diperoleh.
+&emsp;&emsp;Pemrograman merupakan salah satu dasar penting dalam dunia teknologi informasi, karena melalui pemrograman seseorang dapat memberikan instruksi yang dapat dijalankan oleh komputer. Seiring berkembangnya zaman, berbagai bahasa pemrograman telah hadir dengan kelebihan dan kekurangannya masing-masing, salah satunya adalah bahasa pemrograman Java. Java menjadi salah satu bahasa yang banyak digunakan karena sifatnya yang multiplatform, artinya program yang ditulis dengan Java dapat dijalankan di berbagai sistem operasi tanpa banyak perubahan. Kemampuan inilah yang menjadikan Java relevan untuk dipelajari oleh mahasiswa jurusan teknik informatika sebagai bekal untuk memahami dasar logika pemrograman sekaligus penerapan nyata dalam pembuatan aplikasi.
 
-&emsp;&emsp;Selain itu, penulisan laporan ini juga bertujuan untuk melatih kemampuan mahasiswa dalam menyusun karya ilmiah yang terstruktur. Tidak hanya fokus pada penyusunan kode program, tetapi juga pada kemampuan menyampaikan ide, menjelaskan alur logika, serta mendeskripsikan permasalahan dan solusi yang diterapkan. Hal ini diharapkan dapat meningkatkan kemampuan komunikasi tertulis yang sangat dibutuhkan dalam dunia akademik maupun profesional.
+&emsp;&emsp;Belajar pemrograman dengan Java memberikan pemahaman mendalam mengenai konsep dasar seperti variabel, tipe data, operator, hingga struktur kontrol yang menjadi pondasi dalam pembuatan program. Konsep-konsep ini tidak hanya penting untuk menulis kode yang benar, tetapi juga membantu mahasiswa dalam membentuk pola pikir komputasional, yaitu kemampuan menyelesaikan masalah dengan pendekatan sistematis dan logis. Dengan penguasaan konsep dasar tersebut, mahasiswa akan lebih mudah dalam memahami konsep yang lebih kompleks di kemudian hari seperti pemrograman berorientasi objek, pembuatan antarmuka grafis, maupun pengembangan aplikasi berbasis jaringan.
 
-&emsp;&emsp;Laporan ini juga berfungsi sebagai media refleksi bagi mahasiswa terhadap proses belajar yang telah dijalani. Dengan menyusun laporan, mahasiswa dapat menilai kembali sejauh mana pemahaman mereka terhadap konsep-konsep PBO dalam Java, serta mengidentifikasi bagian-bagian yang masih perlu ditingkatkan. Dengan demikian, laporan ini menjadi sarana evaluasi yang bermanfaat untuk memperkuat pemahaman materi.
+&emsp;&emsp;Selain itu, penggunaan Java dalam praktikum dasar pemrograman juga melatih kedisiplinan mahasiswa dalam mengikuti aturan sintaks yang ketat. Java termasuk bahasa pemrograman yang strongly typed, sehingga setiap variabel harus didefinisikan dengan jelas tipe datanya. Hal ini melatih mahasiswa untuk teliti dan cermat dalam menuliskan kode agar dapat dijalankan dengan benar tanpa error. Tidak hanya sekadar menulis program, mahasiswa juga dituntut untuk memahami alur logika yang mereka bangun, sehingga dapat melakukan analisis dan debugging apabila terjadi kesalahan pada program yang dibuat.
 
-&emsp;&emsp;Selain untuk kepentingan individu, laporan ini diharapkan dapat memberikan manfaat bagi pembaca lain, khususnya mahasiswa yang sedang mempelajari dasar pemrograman berorientasi objek menggunakan Java. Melalui laporan ini, pembaca dapat memperoleh gambaran yang lebih jelas mengenai penerapan teori ke dalam praktik, serta langkah-langkah yang perlu diperhatikan dalam menyelesaikan permasalahan pemrograman dasar. Dengan begitu, laporan ini tidak hanya berfungsi sebagai dokumentasi, tetapi juga sebagai referensi pembelajaran.
+&emsp;&emsp;Dengan adanya praktikum ini, mahasiswa diharapkan tidak hanya menguasai teori dasar Java, tetapi juga mampu menerapkannya dalam bentuk program sederhana yang dapat dijalankan dan diuji. Proses praktikum menjadi sarana latihan nyata bagi mahasiswa untuk menghubungkan pengetahuan teoritis yang diperoleh di kelas dengan keterampilan teknis yang dibutuhkan dalam dunia kerja. Oleh karena itu, penyusunan laporan ini penting dilakukan sebagai bentuk dokumentasi dari setiap tahapan praktikum, mulai dari penulisan kode, pengujian, hingga analisis hasil yang diperoleh.
+
+### 1.2 Tujuan Penulisan
+
+&emsp;&emsp;Tujuan dari penulisan laporan ini adalah untuk mendokumentasikan hasil pembelajaran mahasiswa pada mata kuliah dasar pemrograman Java melalui serangkaian praktikum yang telah dilaksanakan. Laporan ini bertujuan memberikan gambaran yang jelas mengenai pemahaman mahasiswa terhadap konsep dasar pemrograman, mulai dari pengenalan bahasa Java, penerapan tipe data dan variabel, penggunaan operator, hingga penyusunan logika sederhana dalam bentuk program. Selain itu, laporan ini juga diharapkan dapat melatih mahasiswa agar mampu menganalisis permasalahan yang muncul saat menulis kode, menemukan solusi yang tepat, serta mengembangkan pola pikir logis yang sistematis. Dengan adanya laporan ini, mahasiswa tidak hanya melatih keterampilan teknis dalam menulis program, tetapi juga mengasah kemampuan akademis dalam menyusun laporan ilmiah yang baik, sehingga pada akhirnya dapat memberikan manfaat baik sebagai sarana evaluasi maupun sebagai dasar pengembangan kemampuan di bidang pemrograman pada tahap selanjutnya.
 
 ---
+
 ## BAB II - PRAKTIKUM
 ### 2.1 Praktikum 1 - Variabel dan Tipe Data
 #### 2.1.1 Dasar Teori
 
-Java memiliki dua kategori tipe data:
+&emsp;&emsp;Java memiliki dua kategori tipe data:
 
 **Tipe Data Primitif :**
 
@@ -111,7 +115,7 @@ public class VariabelDemo {
 
 1. Deklarasi dan Inisialisasi Variabel
 
-Di awal program, dibuat berbagai macam variabel dengan tipe data berbeda:
+&emsp;&emsp;Di awal program, dibuat berbagai macam variabel dengan tipe data berbeda:
 
 ```declarative
 int umur = 19;
@@ -130,7 +134,7 @@ String nama = "Abrar Astafaraiz";
 * String → teks
 
 
-Semua variabel kemudian ditampilkan dengan System.out.println().
+&emsp;&emsp;Semua variabel kemudian ditampilkan dengan System.out.println().
 
 2. Operasi Aritmatika Dasar
 
@@ -154,7 +158,7 @@ a / b = 3 (karena pembagian integer, hasil pecahan dibulatkan)
 a % b = 1 (sisa bagi)  
 
 
-Hal ini menunjukkan cara kerja operator dasar +, -, *, /, % di Java.
+&emsp;&emsp;Hal ini menunjukkan cara kerja operator dasar +, -, *, /, % di Java.
 
 3. Type Casting (Konversi Tipe Data)
 
@@ -184,7 +188,7 @@ hasil bertipe int dengan nilai 150.
 
 📖 Pembahasan
 
-Dari program di atas, bisa disimpulkan bahwa:
+&emsp;&emsp;Dari program di atas, bisa disimpulkan bahwa:
 
 1. Variabel di Java harus dideklarasikan dengan tipe data yang sesuai. Setiap tipe punya fungsi: int untuk bilangan bulat, double untuk desimal, char untuk karakter, boolean untuk logika, dan String untuk teks.
 2. Operasi aritmatika mendukung pengurangan, perkalian, pembagian, dan modulus. Untuk tipe int, hasil pembagian otomatis dibulatkan ke bawah (floor). Jadi 10 / 3 = 3, bukan 3.333....
@@ -204,11 +208,13 @@ Dari program di atas, bisa disimpulkan bahwa:
 
 &emsp;&emsp;Dengan pemahaman ini, mahasiswa bisa mengerti bahwa pemilihan tipe data sangat penting dalam pemrograman, karena akan mempengaruhi hasil perhitungan dan penggunaan memori.
 
+---
+
 ### 2.2 Praktikum 2 - Input, Output, dan Scanner
 
 #### 2.2.1 Dasar Teori
 
-Untuk membaca input dari pengguna dalam Java, kita menggunakan class Scanner yang terdapat dalam package java.util. Scanner menyediakan berbagai method untuk membaca berbagai tipe data:
+&emsp;&emsp;Untuk membaca input dari pengguna dalam Java, kita menggunakan class Scanner yang terdapat dalam package java.util. Scanner menyediakan berbagai method untuk membaca berbagai tipe data:
 
 * nextInt(): membaca integer
 * nextDouble(): membaca double
@@ -260,7 +266,8 @@ public class InputOutputDemo {
 #### 2.1.4 Analisa dan Pembahasan
 🔎 Analisis Program
 
-Deklarasi dan Inisialisasi Variabel
+&emsp;&emsp;**Deklarasi dan Inisialisasi Variabel**
+
 Di awal program, dibuat berbagai macam variabel dengan tipe data berbeda:
 ```declarative
 int umur = 19;
@@ -277,7 +284,8 @@ double → bilangan pecahan/desimal
 char → karakter tunggal  
 boolean → nilai logika (true/false)  
 String → teks  
-Semua variabel kemudian ditampilkan dengan System.out.println().
+
+&emsp;&emsp;Semua variabel kemudian ditampilkan dengan System.out.println().
 
 Operasi Aritmatika Dasar
 ```declarative
@@ -297,7 +305,7 @@ a - b = 7
 a * b = 30 a / b = 3 (karena pembagian integer, hasil pecahan dibulatkan)  
 a % b = 1 (sisa bagi)
 
-Hal ini menunjukkan cara kerja operator dasar +, -, *, /, % di Java.
+&emsp;&emsp;Hal ini menunjukkan cara kerja operator dasar +, -, *, /, % di Java.
 
 Type Casting (Konversi Tipe Data)  
 double nilaiDouble = 9.8;  
@@ -341,6 +349,8 @@ Kode Java yang saya buat adalah contoh praktikum dasar variabel dan operasi arit
 4. Automatic promotion pada operasi variabel bertipe byte dan short yang otomatis diubah menjadi int.
 
   Dengan pemahaman ini, mahasiswa bisa mengerti bahwa pemilihan tipe data sangat penting dalam pemrograman, karena akan mempengaruhi hasil perhitungan dan penggunaan memori.
+
+---
 
 ### 2.3 Praktikum 3 - Struktur Control: Percabangan
 
@@ -635,6 +645,7 @@ Praktikum ini menunjukkan bahwa struktur kontrol percabangan adalah komponen pen
 
 &emsp;&emsp;Pemahaman perbedaan dan penggunaan yang tepat dari masing-masing jenis percabangan membantu programmer memilih struktur logika yang sesuai dengan kebutuhan program. Hal ini menjadikan kode lebih jelas, terstruktur, dan mudah dikelola.
 
+---
 
 ### 2.4 Praktikum 4 - Struktur Control: Perulangan
 
