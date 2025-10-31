@@ -64,6 +64,6 @@ public class MataKuliah {
         }
     }
     public void tampilkanInfo(){
-        System.out.printf("%-10 %30S %d SKS | Nilai:%.2f(%s)\n",kode,nama,sks,nilai,getNilaiHuruf());
-        }
+        System.out.printf("%-10s %-30s %d SKS | Nilai:%.2f (%s)\n",kode,nama,sks,nilai,getNilaiHuruf());
+    }
 }

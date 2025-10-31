@@ -650,7 +650,7 @@ Dalam praktikum terakhir ini, mahasiswa belajar bagaimana string dapat digunakan
 
 ## BAB IV - REFERENSI
 Modul Praktikum 3 by Pak Muhammad Reza Zulman, S.ST., M.Sc.
-* https://hackmd.io/@mohdrzu/B1DuPNNOgx#Modul-2---Dasar-Pemrograman-Java
+* https://hackmd.io/@mohdrzu/BJBWepc3xg
 
 Web W3Schools bagian Java
 * https://www.w3schools.com/java/default.asp
