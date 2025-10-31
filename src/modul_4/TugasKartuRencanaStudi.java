@@ -5,7 +5,7 @@ public class TugasKartuRencanaStudi {
     private MataKuliah[] daftarMatakuliah;
     private int jumlahMatkul;
     private int maxMatkul;
-    private final int BATAS_SKS = 24; // batas maksimum total SKS
+    private final int batas_SKS = 24; // batas maksimum total SKS
 
     // Konstruktor
     public TugasKartuRencanaStudi(Mahasiswa mahasiswa, int maxMatkul) {
@@ -19,9 +19,9 @@ public class TugasKartuRencanaStudi {
     public boolean tambahMatakuliah(MataKuliah matkul) {
         int totalSKSSementara = hitungTotalSKS() + matkul.getsks();
 
-        if (totalSKSSementara > BATAS_SKS) {
+        if (totalSKSSementara > batas_SKS) {
             System.out.println("\nTidak dapat menambahkan " + matkul.getNama() +
-                    " karena total SKS akan melebihi batas " + BATAS_SKS + " SKS!");
+                    " karena total SKS akan melebihi batas " + batas_SKS + " SKS!");
             return false;
         }
 
