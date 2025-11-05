@@ -1,4 +1,4 @@
-# Laporan Modul 2: Enkapsulasi
+# Laporan Modul 5: Enkapsulasi
 **Mata Kuliah:** Praktikum Pemrograman Berorientasi Objek   
 **Nama:** Abrar Astafaraiz  
 **NIM:** 2024573010088  
