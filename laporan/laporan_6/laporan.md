@@ -12,7 +12,7 @@
 
 &emsp;&emsp;Inheritance (Pewarisan) adalah salah satu prinsip fundamental dalam Object-Oriented Programming (OOP) yang memungkinkan sebuah class (subclass/child class) mewarisi sifat dan perilaku dari class lain (superclass/parent class). Dengan inheritance, kita dapat menghindari duplikasi kode dan meningkatkan reusability.
 
-### 1.2 Tujuan Enkapsulasi
+### 1.2 Tujuan Inheritance
 
 1. Code Reusability - Menggunakan kembali kode yang sudah ada tanpa menulis ulang. 
 2. Method Overriding - Memungkinkan subclass mengimplementasikan ulang method dari parent class. 
