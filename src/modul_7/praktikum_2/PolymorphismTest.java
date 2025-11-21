@@ -30,7 +30,7 @@ public class PolymorphismTest {
             } else if (shape instanceof Rectangle) {
                 Rectangle rectangle = (Rectangle) shape;
                 System.out.println("Ini adalah Rectangle dengan luas: " + rectangle.calculateArea());
-            }  else if (shape instanceof Triangle) {
+            } else if (shape instanceof Triangle) {
                 Triangle triangle = (Triangle) shape;
                 System.out.println("Ini adalah Triangle dengan luas: " + triangle.calculateArea());
             }
